@@ -1,16 +1,26 @@
-# flutter_voice
+# Reconhecimento de voz (voice) Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://github.com/tassiogustavo/flutter_voice/assets/70405308/b79fe5a5-57d8-4eb7-b3cc-aa3f57a87141
 
-## Getting Started
+## 📝 Descrição do projeto
+Projeto feito a partir de um tutorial do youtube que consiste em um aplicativo de reconhecimento de voz onde algumas palavras especificas quando ditas são destacadas no texto. Foi utilizado a lib speech_to_text para fazer o reconhecimento da voz (idioma inglês). Foi utilizado a lib highlight_text para destacar palavras específicas no texto e foi utilizado a lib avatar_glow que faz uma animação pulsante no botão de fala enquanto está habilitado para escutar a voz.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Reconhecimento de voz
+* Destaque de palavras chaves no texto quando ditas
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* LIB: speech_to_text (reconhecimento de voz)
+* LIB: highlight_text (destaca palavras no texto)
+* LIB: avatar_glow (animação pulsante no botão)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📌 Links
+* [speech_to_text](https://pub.dev/packages/speech_to_text)
+* [highlight_text](https://pub.dev/packages/highlight_text)
+* [avatar_glow](https://pub.dev/packages/avatar_glow)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
